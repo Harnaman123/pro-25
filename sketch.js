@@ -33,7 +33,7 @@ function setup() {
 }
 
 function draw() {
-  background(backgroundImg);
+  background("Grey");
 
   Engine.update(engine);
 
